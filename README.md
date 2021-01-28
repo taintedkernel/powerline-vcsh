@@ -1,6 +1,6 @@
 # Powerline VCSH repo
 
-A [Powerline][1] segment for showing the current VCSH repo.
+A [Powerline][1] segment for showing the current [VCSH][4] repo.
 
 ![screenshot](./screenshot.png)
 
@@ -49,3 +49,4 @@ Licensed under the [MIT License][3]
 [1]: http://powerline.readthedocs.io/en/master/index.html
 [2]: https://github.com/taintedkernel/powerline-vcsh/blob/master/screenshot.png
 [3]: https://github.com/taintedkernel/powerline-vcsh/blob/master/LICENSE
+[4]: https://github.com/RichiH/vcsh
