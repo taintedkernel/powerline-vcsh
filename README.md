@@ -37,6 +37,12 @@ You can activate the VCSH segment by adding to your segment config (eg: `.config
 }
 ```
 
+You will also need to restart powerline for the settings to take effect:
+
+```bash
+powerline-daemon --replace
+```
+
 ## License
 Licensed under the [MIT License][3]
 

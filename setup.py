@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name         = 'powerline-vcsh',
     description  = 'A Powerline segment for showing the current VCSH repo',
-    version      = '0.0.1',
+    version      = '1.0.0',
     keywords     = 'powerline vcsh prompt',
     license      = 'MIT',
     author       = 'Anthony DeChiaro',
